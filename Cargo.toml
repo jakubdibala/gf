@@ -6,3 +6,4 @@ authors = ["Jakub Dibala <jakub.dibala@brainz.cz>"]
 [dependencies]
 git2 = "0.7"
 colored = "1.6"
+clap = "2.32.0"
